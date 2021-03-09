@@ -1,3 +1,12 @@
+<h1>Welcome to my profile</h1>
+
+<h3>You can find me on:</h3>
+<p><a href="https://twitter.com/muznyo">Twitter</a></p>
+<p><a href="https://t.me/muznyo">Telegram</a></p>
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=muznyo&show_icons=true&theme=dark&bg_color=0d1117&hide_border="true")
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muznyo&theme=dark&bg_color=0d1117&hide_border="true")
 <!--
 **muznyo/muznyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muznyo&theme=dark&bg_color=0d1117&hide_border="true")
-![My github stats](https://github-readme-stats.vercel.app/api?username=muznyo&show_icons=true&theme=dark&bg_color=0d1117&hide_border="true")
