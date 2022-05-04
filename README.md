@@ -3,6 +3,7 @@
 <h3>You can find me on:</h3>
 <p><a href="https://twitter.com/muznyo">Twitter</a></p>
 <p><a href="https://t.me/muznyo">Telegram</a></p>
+<p><a href="https://mastodon.social/@muznyo">Mastodon</a></p>
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=muznyo&show_icons=true&theme=dark&bg_color=0d1117&hide_border="true")
