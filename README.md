@@ -6,8 +6,8 @@
 <p><a href="https://mastodon.social/@muznyo">Mastodon</a></p>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=muznyo&show_icons=true&theme=dark&bg_color=0d1117&hide_border="true")
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muznyo&theme=dark&bg_color=0d1117&hide_border="true")
+![My github stats](https://github-readme-stats.vercel.app/api?username=muznyo&show_icons=true&theme=dark&bg_color=ffffff00&hide_border="true")
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muznyo&theme=dark&bg_color=ffffff00&hide_border="true")
 <!--
 **muznyo/muznyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
