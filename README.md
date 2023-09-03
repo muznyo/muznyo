@@ -1,6 +1,6 @@
 <h1>Welcome to my profile</h1>
 > [Very important]  
-> All new repositories are on Codeberg. WIll keep using GitHub for contributing and more though.
+> All new repositories are on <a href="https://codeberg.org/muznyo">Codeberg</a>. WIll keep using GitHub for contributing and more though.
 
 <h3>You can find me on:</h3>
 <p><a href="https://t.me/muznyo">Telegram</a></p>
